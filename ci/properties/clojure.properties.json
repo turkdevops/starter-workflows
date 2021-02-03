@@ -2,5 +2,8 @@
   "name": "Clojure",
   "description": "Build and test a Clojure project with Leiningen.",
   "iconName": "clojure",
-  "categories": ["Clojure", "Java"]
+  "categories": [
+    "Clojure",
+    "Java"
+  ]
 }
