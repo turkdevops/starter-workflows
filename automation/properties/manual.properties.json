@@ -1,6 +1,8 @@
 {
-    "name": "Manual workflow",
-    "description": "Simple workflow that is manually triggered.",
-    "iconName": "blank",
-    "categories": ["Automation"]
+  "name": "Manual workflow",
+  "description": "Simple workflow that is manually triggered.",
+  "iconName": "blank",
+  "categories": [
+    "Automation"
+  ]
 }

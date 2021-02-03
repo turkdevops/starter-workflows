@@ -1,6 +1,8 @@
 {
-    "name": "Python package",
-    "description": "Create and test a Python package on multiple Python versions.",
-    "iconName": "python",
-    "categories": ["Python"]
+  "name": "Python package",
+  "description": "Create and test a Python package on multiple Python versions.",
+  "iconName": "python",
+  "categories": [
+    "Python"
+  ]
 }

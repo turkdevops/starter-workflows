@@ -1,6 +1,9 @@
 {
-    "name": "Publish Java Package with Maven",
-    "description": "Build a Java Package using Maven and publish to GitHub Packages.",
-    "iconName": "maven",
-    "categories": ["Java", "Maven"]
+  "name": "Publish Java Package with Maven",
+  "description": "Build a Java Package using Maven and publish to GitHub Packages.",
+  "iconName": "maven",
+  "categories": [
+    "Java",
+    "Maven"
+  ]
 }

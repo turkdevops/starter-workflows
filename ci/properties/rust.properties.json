@@ -1,6 +1,8 @@
 {
-    "name": "Rust",
-    "description": "Build and test a Rust project with Cargo.",
-    "iconName": "rust",
-    "categories": ["Rust"]
+  "name": "Rust",
+  "description": "Build and test a Rust project with Cargo.",
+  "iconName": "rust",
+  "categories": [
+    "Rust"
+  ]
 }
