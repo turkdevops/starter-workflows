@@ -1,6 +1,4 @@
 {
   "compilerOptions": {},
-  "include": [
-    "*.ts"
-  ]
+  "include": ["*.ts"]
 }
