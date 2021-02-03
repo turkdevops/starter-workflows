@@ -1,6 +1,3 @@
 {
-  "folders": [
-    "../../ci",
-    "../../automation"
-  ]
+  "folders": ["../../ci", "../../automation"]
 }
