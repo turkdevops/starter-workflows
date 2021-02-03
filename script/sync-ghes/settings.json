@@ -1,8 +1,5 @@
 {
-  "folders": [
-    "../../ci",
-    "../../automation"
-  ],
+  "folders": ["../../ci", "../../automation"],
   "enabledActions": [
     "actions/checkout",
     "actions/create-release",

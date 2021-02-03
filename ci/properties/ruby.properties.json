@@ -2,7 +2,5 @@
   "name": "Ruby",
   "description": "Build and test a Ruby project with Rake.",
   "iconName": "ruby",
-  "categories": [
-    "Ruby"
-  ]
+  "categories": ["Ruby"]
 }
